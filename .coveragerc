@@ -1,0 +1,7 @@
+[report]
+omit =
+    setup.py
+    shbaam/__main__.py
+    shbaam/_version.py
+    versioneer.py
+    tests/*

@@ -1,0 +1,8 @@
+---
+exclude_paths:
+  - 'shbaam/_version.py'
+  - 'tests/**/*'
+  - 'tests/*'
+  - 'benchmarks/**/*'
+  - 'setup.py'
+  - 'versioneer.py'
